@@ -52,11 +52,3 @@ The [Wiki](https://github.com/christaylorcodes/ConnectWiseManageAPI/wiki) has so
 If you use this project please give it a star and follow so you can get updated when new features are released. This also lets me know what projects are getting used and what ones I should dedicate more time to. If you want to get more involved please see the [contributing page](CONTRIBUTING.md). Projects need all kinds of help even if you don't know how to code.
 
 Want to share something you created using the module? Submit it to be featured as a Community Package.
-
-## [Donating](https://github.com/christaylorcodes/GitHub-Template/blob/main/DONATE.md)
-
-If you cant take time to contribute maybe you would like to help in another way.
-
-It takes time to maintain this project. Does the time spent on this module help you do cool things? Is that time worth a beer or two?
-
-Donations allow me to spend more time on this project and implement your feature requests.
