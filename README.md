@@ -1,3 +1,8 @@
+
+
+This has been forked from https://github.com/christaylorcodes/ConnectWiseManageAPI/tree/master/ConnectWiseManageAPI as a temporary workaround related to Powershell 7.4+ and ConnectWise proxy redirect issues 
+
+
 ﻿<h1 align="center">
   <br>
   <img src=".\Media\Manage-RGB-Horiz-Master.png" alt="logo"></a>
@@ -36,10 +41,8 @@ This module makes it easy to leverage PowerShell to automate tasks in Manage and
 ## [Install](https://www.powershellgallery.com/packages/ConnectWiseManageAPI)
 
 ```
-Install-Module 'ConnectWiseManageAPI'
+Module needs to be manually installed 
 ```
-
->If you are having issues accessing the PowerShell Gallery check out my [repair script](https://github.com/christaylorcodes/Initialize-PSGallery)
 
 ## [Usage]((https://github.com/christaylorcodes/ConnectWiseManageAPI/wiki/Getting-Started---Authentication))
 
