@@ -41,7 +41,8 @@ This module makes it easy to leverage PowerShell to automate tasks in Manage and
 ## [Install](https://www.powershellgallery.com/packages/ConnectWiseManageAPI)
 
 ```
-Module needs to be manually installed 
+Module needs to be manually installed
+\ConnectWiseManageAPI 
 ```
 
 ## [Usage]((https://github.com/christaylorcodes/ConnectWiseManageAPI/wiki/Getting-Started---Authentication))
